@@ -1,9 +1,3 @@
-Here is a **portfolio-style GitHub README** with **badges, icons, and a professional structure**. This version looks much better to recruiters and is commonly used in **Data Analyst portfolios**.
-
-You can **copy and paste this directly into your `README.md` file**.
-
----
-
 # 📊 Fashion Sales & Profit Analysis Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
@@ -36,11 +30,17 @@ This project transforms **raw retail data into business insights** using modern 
 The main goals of this project are:
 
 ✔ Analyze overall **sales and profit performance**
+
 ✔ Identify **top-performing product categories**
+
 ✔ Analyze **city-wise sales distribution**
+
 ✔ Evaluate **discount impact on profit**
+
 ✔ Track **monthly sales trends**
+
 ✔ Identify **top-selling products**
+
 ✔ Build an **interactive Power BI dashboard** 
 
 ---
