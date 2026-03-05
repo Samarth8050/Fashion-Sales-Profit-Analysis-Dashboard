@@ -1,4 +1,4 @@
-<img width="940" height="522" alt="DASHBOARD" src="https://github.com/user-attachments/assets/ee0cebd1-a485-4beb-9798-3dcdaa9efdf8" /><img width="940" height="522" alt="DASHBOARD" src="https://github.com/user-attachments/assets/8df1ab16-d1b0-46aa-b9e5-cdf44c6a6ace" /># 📊 Fashion Sales & Profit Analysis Dashboard
+<img width="940" height="522" alt="DASHBOARD" src="https://github.com/user-attachments/assets/ee0cebd1-a485-4beb-9798-3dcdaa9efdf8" /># 📊 Fashion Sales & Profit Analysis Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-Pandas-blue?style=for-the-badge\&logo=python)
