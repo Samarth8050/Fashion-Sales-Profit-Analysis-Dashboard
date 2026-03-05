@@ -1,4 +1,4 @@
-# 📊 Fashion Sales & Profit Analysis Dashboard
+<img width="940" height="522" alt="DASHBOARD" src="https://github.com/user-attachments/assets/ee0cebd1-a485-4beb-9798-3dcdaa9efdf8" /><img width="940" height="522" alt="DASHBOARD" src="https://github.com/user-attachments/assets/8df1ab16-d1b0-46aa-b9e5-cdf44c6a6ace" /># 📊 Fashion Sales & Profit Analysis Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-Pandas-blue?style=for-the-badge\&logo=python)
@@ -102,8 +102,11 @@ This ensured the dataset was **accurate, consistent, and analysis-ready**.
 The dashboard tracks the following performance indicators:
 
 📌 **Total Sales** – Overall revenue generated
+
 📌 **Total Profit** – Total profit earned
+
 📌 **Total Orders** – Number of completed orders
+
 📌 **Average Discount** – Average discount applied
 
 These metrics provide a quick overview of business performance. 
@@ -177,13 +180,13 @@ This analysis helps retailers:
 ✔ Improve sales forecasting
 ✔ Support data-driven decision making
 
+
 ---
 
 # 📷 Dashboard Preview
 
 ```
-<img width="940" height="522" alt="image" src="https://github.com/user-attachments/assets/6b3db886-bb25-4e44-9002-7bbe6016fcdc" />
-
+<img width="940" height="522" alt="DASHBOARD" src="https://github.com/user-attachments/assets/14dd3983-aedf-453a-af6d-64c71e1413b2" />
 ```
 
 ---
