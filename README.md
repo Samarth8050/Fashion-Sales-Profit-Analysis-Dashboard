@@ -1,5 +1,4 @@
 📊 Fashion Sales & Profit Analysis Dashboard
-
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-Pandas-blue?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange?style=for-the-badge\&logo=mysql)
@@ -185,9 +184,7 @@ This analysis helps retailers:
 
 # 📷 Dashboard Preview
 
-```<img width="940" height="522" alt="DASHBOARD" src="https://github.com/user-attachments/assets/ee0cebd1-a485-4beb-9798-3dcdaa9efdf8" />#
-```
-
+<img width="940" height="522" alt="DASHBOARD" src="https://github.com/user-attachments/assets/ee0cebd1-a485-4beb-9798-3dcdaa9efdf8" />#
 ---
 
 # 📁 Project Structure
