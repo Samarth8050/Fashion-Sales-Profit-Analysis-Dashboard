@@ -1,6 +1,6 @@
 ---
 
-# 📌Fashion Sales & Profit Analysis Dashboard
+# 📊 Fashion Sales & Profit Analysis Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-Pandas-blue?style=for-the-badge\&logo=python)
